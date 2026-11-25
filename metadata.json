@@ -1,0 +1,6 @@
+{
+  "name": "VoxDSP Studio",
+  "description": "Estudio interactivo de procesamiento DSP en tiempo real para voces reales con descarga del motor completo en C++20 y PortAudio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
